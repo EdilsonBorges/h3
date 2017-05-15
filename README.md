@@ -12,3 +12,7 @@ There was very different drafts, previous to this one. They're were designed as 
 ![First Draft](h3-first-draft.jpg)
 
 The main goal is to develop a solar colector capable of generating heat and steam in a modular fashion.  
+
+### LICENSE
+
+CERN Open Hardware Licence v1.2.
