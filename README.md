@@ -7,7 +7,7 @@ This project is based on a multitude of [resources and concepts](/links-resource
 
 ### "First" Draft
 
-There was very different drafts, previous to this one. They're were designed as part as another project, [arvore-de-vidro](https://github.com/arthurmoises/h3) (portuguese only), but to make things new, this will be considered the "H³ First Draft":
+There was very different drafts, previous to this one. They're were designed as part as another project, [arvore-de-vidro](https://github.com/arthurmoises/arvore-de-vidro) (portuguese only), but to make things new, this will be considered the "H³ First Draft":
 
 ![First Draft](h3-first-draft.jpg)
 
